@@ -18,5 +18,5 @@ spec:
       - name: web-container
         image: 172.25.10.61/library/harbor_cicd:v1
         ports:
-        - containerPort: 87
+        - containerPort: 90
 
